@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:product_task/screen/config/data/datas.dart';
-import 'package:product_task/screen/config/data/products.dart';
+import 'package:product_task/screen/products.dart';
 
 class Main_screen extends StatefulWidget {
   const Main_screen({super.key});
